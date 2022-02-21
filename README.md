@@ -1,3 +1,15 @@
+# JULIÁN ANDRÉS GIRALDO IZQUIERDO - PRUEBA TECNÍCA MERQUEO
+
+Descripción
+
+La prueba fue desarrollada con React, Javascript, Html y Css y Un patron de arquitectura basado en reducers, utilizé las siguientes herramientas:
+
+1. Hooks useState y useReducer: para manejar el estado de los componentes, useReducer lo maneje con una serie de actions y envios(dispatch) para administar el state y las funciones de los productos y el carrito.
+2. Hook useState: Para transferir los datos de la datos a travez de todos los componentes de la aplicación.
+3. Trabaje los estilos con la librería styled-components debido al tamaño del sitio, en otras ocaciones intento compilar el de sass a css pero por el tamaño de la prueba me parecio mejor así, también utilize grid y flex como modelos de grilla.
+4. Axios: para las operaciones http.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
