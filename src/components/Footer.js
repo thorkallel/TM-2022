@@ -7,7 +7,7 @@ const Footer = () => {
         &copy; {new Date().getFullYear()}
         <span> Julián Giraldo</span>
       </h5>
-      <h5>Prueba técnica merqueo</h5>
+      <h5>Prueba Técnica Merqueo 2022</h5>
     </Wrapper>
   )
 }

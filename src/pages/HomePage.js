@@ -1,5 +1,5 @@
 import React from 'react'
-import { FeaturedProducts, Top } from '../components'
+import { FeaturedProducts } from '../components'
 
 const HomePage = () => {
   return (

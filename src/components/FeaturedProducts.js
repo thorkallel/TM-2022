@@ -22,7 +22,7 @@ const FeaturedProducts = () => {
   return (
     <Wrapper className='section'>
       <div className='title'>
-        <h2>Productos</h2>
+        <h2 data-testid="titulo-app">Productos</h2>
         <div className='underline'></div>
       </div>
       <div className='section-center featured'>
